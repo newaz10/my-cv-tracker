@@ -1,3 +1,3 @@
 # my-cv-tracker
 
-I have created this repo for managing my CV. 
+This repo is for tracking my resume. 
