@@ -1,3 +1,3 @@
-# my-resume-tracker
+# My Resume Tracker
 
-This repo is for tracking my resume. 
+This repository is designed to help me track my resume effectively. It serves as a tool for organizing and managing my resume-related activities.
