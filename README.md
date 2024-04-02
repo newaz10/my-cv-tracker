@@ -8,4 +8,4 @@ Please find my updated resume attached. I am enthusiastic about exploring new te
 
 Questions or suggestions? Don't hesitate to reach out.
 
-[Download My Resume](https://github.com/newaz10/my-resume-tracker/blob/main/Resume_Newaz.pdf)
+<a href="https://github.com/newaz10/my-resume-tracker/blob/main/Resume_Newaz.pdf" download target="_blank">Download My Resume</a>
