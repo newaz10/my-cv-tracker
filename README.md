@@ -7,3 +7,5 @@ This repository is specifically designed to help me efficiently manage and track
 Please find my updated resume attached. I am enthusiastic about exploring new technologies and opportunities. Feel free to contact me if you would like to learn more about my experience and skills.
 
 Questions or suggestions? Don't hesitate to reach out.
+
+[Download My Resume](https://github.com/newaz10/my-resume-tracker/blob/main/Resume_Newaz.pdf)
